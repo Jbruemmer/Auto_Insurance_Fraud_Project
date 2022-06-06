@@ -100,17 +100,17 @@ Through the iterations of our model we were able to improve the accuracy by 6%. 
 
 ## Recommendations
 
-We cannot give concrete recommendations based off our model evaluations right now. However, we can say that it we are confident given enough time and resources we could build a model to help detect this form of fraud by car insurance companies.  to use verified police data to help combat insurance fraud. 
+We cannot give concrete recommendations based off our model evaluations right now. However, we can say that it we are confident given enough time and resources we could build a model to help detect this form of fraud for car insurance companies. 
 
-One of the things this group has learned, is that though this type of modeling may be expensive for companies, it can make a huge difference to stakeholders. Insurance companies with smaller premiums (due to decreased fraud charges) will be able to advertise to customers a lower rate. This will benefit both a companies stakeholders and their consumers. 
+One of the things this group has learned, is that though this type of modeling may be expensive for companies, it can make a huge difference to stakeholders. Insurance companies with smaller premiums (due to decreased fraud charges) will be able to advertise a lower rate. This will benefit both a companies stakeholders and their consumers. 
 
-Using a model similar to ours will allow companies to send out independent investigators to affirm/deny insurance claims with different price discrepancies. It is unrealistic to expect Insurance companies to meticulously investigate every claim. However, if a more accurate model could be made it would benefit both the product and consumer. 
+Using a model similar to ours will allow companies to send out independent investigators to affirm/deny insurance claims with differing price discrepancies. It is unrealistic to expect Insurance companies to meticulously investigate every claim. However, if a more accurate model could be made it would benefit both the corporation and consumer. 
 
 ## Further Analysis
 
-There are many ways to improve this model whilst continuing to only use the data we have gathered. Much of a repair cost is dependent on where the car is hit. Although there is some indication of this within the data, work can be done to improve the primary cause to include this information. 
+There are many ways to improve this model whilst continuing to only use the data we have gathered. Much of a repair cost is dependent on where the car is hit. Although there is some indication of this within the data, work can be done to improve the primary cause category to better identify where a car has been impacted. 
 
-In addition, our model was unable to effectively use any information about the vehicle other than the year it was made. Using Kelly Blue Book Value data or a similar appraiser would allow our model to estimate much better. 
+In addition, our model was unable to effectively use any information about the vehicle other than the year it was made. Using Kelly Blue Book Value data or a similar appraiser would allow our model to incorporate this data more effectively. 
 
 Before the model can be implemented, it needs to be tested outside of Chicago to ensure there are no inherent biases within our data. 
 
@@ -131,7 +131,7 @@ LinkedIn: [Bryan Keating | LinkedIn](https://www.linkedin.com/in/Bryan-keating)
 ## Thank You
 We would like to personally thank anyone who has gotten to this point. We have had amazing instructors who have empowered both of us to get here. These instructors are Lindsey Berlin, Mark Barbour, and Jelly 'Angelica' Spratley. 
 
-This project has been a challenge, it was completed in the span of three days and we both wish we had more time to tackle this problem. It has been incredibly humbling. Both John and Bryan wish to continue this type of work. Specifically we wish to use data to improve the world we live in.
+This project has been a challenge, it was completed in the span of three days and we both wish we had more time to tackle this problem. It has been incredibly humbling. Both John and Bryan wish to continue this type of work. More specifically we wish to use data to improve the world we live in.
 
 ## Repository Structure
 ```
