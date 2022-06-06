@@ -113,7 +113,7 @@ In addition, our model was unable to effectively use any information about the v
 Before the model can be implemented, it needs to be tested outside of Chicago to ensure there are no inherent biases within our data. 
 
 ## In Depth Analysis
-If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/King-County-Housing-Project/blob/main/King%20County%20Development%20Recommendations.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/King-County-Housing-Project/blob/main/King%20County%20Development%20Recommendations%20(Final).pptx)*.
+If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/Auto_Insurance_Fraud_Project/blob/main/Fraudulent_%20Auto_Insurance_Claim_Detection_Model%20.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/Auto_Insurance_Fraud_Project/blob/main/Presentation_%20Combatting_Insurance_Fraud.pdf)*.
 
 If you would like to get in contact you can message us on Github or reach out on any of these platforms:
 #### John Bruemmer:
@@ -130,10 +130,8 @@ LinkedIn: [Bryan Keating | LinkedIn](https://www.linkedin.com/in/Bryan-keating)
 ## Repository Structure
 ```
 ├── Images
-├── Data
 ├── .gitignore
-├── King County Development Recommendations (Final).pptx
-├── King County Development Recommendations PDF.pdf
-├── King County Development Recommendations Presentation.pdf.pdf
-├── King County Development Recommendations.ipynb
+├── Fraudulent_ Auto_Insurance_Claim_Detection_Model.ipynb
+├── Fraudulent_ Auto_Insurance_Claim_Detection_Notebook.pdf
+├── Presentation_ Combatting_Insurance_Fraud.pdf
 └── README.md
