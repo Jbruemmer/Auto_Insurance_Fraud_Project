@@ -2,9 +2,9 @@
 ---
 
 ## Overview 
-According to Verisk Analytics, auto insurance fraud is a $29 billion problem, according to the FBI this number may be closer to $40 Billion, there are even some sources who say that insurance fraud costs the U.S. roughly $80 Billion.
+According to Verisk Analytics, auto insurance fraud is a $29 billion problem, according to the FBI this number may be closer to $40 Billion, there are even some sources who say that insurance fraud costs the U.S. roughly $80 Billion .
 
- This is partially a result of omitted or misrepresented underwriting information and criminally inflated claims, leading to inadequate insurance and higher rates. But there is no such thing as a free lunch. 
+This is partially a result of omitted or misrepresented underwriting information and criminally inflated claims, leading to inadequate insurance and higher rates. But there is no such thing as a free lunch. 
 
 Whilst insurance companies are on the hook for 30-80 billion dollars annually, these costs are being transferred down to consumers. And before you think that these numbers are getting smaller as data analytics gets better. This number is continuing to rise. See this infographic from the "Coalition Against Insurance Fraud":
 
@@ -21,11 +21,9 @@ For the purposes of this project, Bryan is the technical lead while John was the
 
 ## Business Understanding  
 
-According to the FBI, the average (and most likely hard working, rule following) American family spends an extra $400 to $700 on insurance premiums every year because of insurance fraud.
+The stakeholder for this project is a major insurance company (think All-State, StateFarm, Geico, etc.). This project will showcase some of the techniques an insurance company can use to help identify fraudulent claims. By using data analytics and machine learning, companies may be able to flag suspicious claims and no longer pass these costs to their customers. 
 
-The stakeholder for this project is a major insurance company (think All-State, StateFarm, Geico, etc.). This project will showcase some of the techniques, an insurance company can use to help identify fraudulent claims. By using data analysis and machine learning, companies can flag suspicious claims and  save their company and their customers a substantial dollar amount.
-
-Chicago was used as the test case for our modeling. Chicago is a huge market in the United Sates and we were given comprehensive police reporting data there.  Before implementing nationally, they want to test a beta model in Illinois to gauge efficacy. utilizing the city of Chicago's transportation data portal, we were able to access information on every single documented car crash since 2017. Superficially, we used three sizable data frames holding information about:
+Chicago was used as the test case for our modeling. Chicago is a huge market in the United Sates and we were given comprehensive police reporting data there. This data is likely applicable to a larger market but would need to be tested before implementation. Chicago Police Crash data was used in this case to see if any finding could be reached in a limited time span. Three large data frames were used from the Chicago Police that had information on the following: 
 
 1)The crash itself 
 
@@ -37,9 +35,13 @@ Chicago was used as the test case for our modeling. Chicago is a huge market in 
 
 
 ## Data Understanding and Preparation
-All the data used was gathered from the city of Chicago's "Chicago Data Portal". In order to get the most relevant data, we isolated the data taken between January of 2017 and January of 2022. We used three dataframes: 1) "Traffic Crashes - Crashes"   2) "Traffic Crashes - People"   3) "Traffic Crashes - Cars"
+All the data used was gathered from the city of Chicago's ["Chicago Data Portal"](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if). Data from January 2017 to December of 2021 was used for the purpose of our analyses. From that we gathered three dataframes: 
 
-Raw Data:
+1 "Traffic Crashes - Crashes"   
+2) "Traffic Crashes - People"   
+3) "Traffic Crashes - Cars"
+
+#### Raw Data:
 
 **Traffic Crashes** - Crashes: 617,346 rows × 49 features
 
@@ -115,7 +117,7 @@ Before the model can be implemented, it needs to be tested outside of Chicago to
 ## In Depth Analysis
 If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/Auto_Insurance_Fraud_Project/blob/main/Fraudulent_%20Auto_Insurance_Claim_Detection_Model%20.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/Auto_Insurance_Fraud_Project/blob/main/Presentation_%20Combatting_Insurance_Fraud.pdf)*.
 
-If you would like to get in contact you can message us on Github or reach out on any of these platforms:
+### Contact Information:
 #### John Bruemmer:
 Github :[https://github.com/Jbruemmer](https://github.com/Jbruemmer)
 Email: [Johnnybruemmer@gmail.com](mailto:Johnnybruemmer@gmail.com)]
@@ -126,6 +128,12 @@ Github: [https://github.com/BryanKeating](https://github.com/BryanKeating)
 Email: [BryanKeating7@gmail.com](mailto:BryanKeating7@gmail.com)]
 LinkedIn: [Bryan Keating | LinkedIn](https://www.linkedin.com/in/Bryan-keating)
 
+## Thank You
+We would like to personally thank anyone who has gotten to this point. We have had amazing instructors who have helped us get to this point. Specifically, Lindsey Berlin, Mark Barbour, and Jelly 'Angelica' Spratley. 
+
+This project has been a challenge, it was completed in the span of three days. It has been incredibly humbling. Both John and Bryan wish to continue this type of work. 
+
+Specifically we wish to use data to improve the world moving forward. 
 
 ## Repository Structure
 ```
