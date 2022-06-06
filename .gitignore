@@ -1,0 +1,5 @@
+#The data files will be to big for github
+Data/
+
+.ipynb_checkpoints/
+.DS_Store
