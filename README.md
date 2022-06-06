@@ -129,11 +129,9 @@ Email: [BryanKeating7@gmail.com](mailto:BryanKeating7@gmail.com)]
 LinkedIn: [Bryan Keating | LinkedIn](https://www.linkedin.com/in/Bryan-keating)
 
 ## Thank You
-We would like to personally thank anyone who has gotten to this point. We have had amazing instructors who have empowered both of us to get here. These instructors include are Lindsey Berlin, Mark Barbour, and Jelly 'Angelica' Spratley. 
+We would like to personally thank anyone who has gotten to this point. We have had amazing instructors who have empowered both of us to get here. These instructors are Lindsey Berlin, Mark Barbour, and Jelly 'Angelica' Spratley. 
 
-This project has been a challenge, it was completed in the span of three days. It has been incredibly humbling. Both John and Bryan wish to continue this type of work. 
-
-Specifically we wish to use data to improve the world we live in.
+This project has been a challenge, it was completed in the span of three days and we both wish we had more time to tackle this problem. It has been incredibly humbling. Both John and Bryan wish to continue this type of work. Specifically we wish to use data to improve the world we live in.
 
 ## Repository Structure
 ```
